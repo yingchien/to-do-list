@@ -1,0 +1,11 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:yingchien/to-do-list.git",
+  "author": "YingChien <elaine33324@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  }
+}
